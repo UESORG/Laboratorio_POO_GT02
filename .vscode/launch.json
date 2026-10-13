@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Lab 2 - Motor de reservas de hotel",
+            "request": "launch",
+            "mainClass": "org.laboratorio2.controller.Main",
+            "projectName": "Laboratorio2",
+            "console": "integratedTerminal"
+        }
+    ]
+}
